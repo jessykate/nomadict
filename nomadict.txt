@@ -1,0 +1,182 @@
+This is the Nomadic Rhizomatic dictionary. It is full of fashionable lingo in
+the crtical theory community. It is kind of serious, in as much as these terms
+are used and it's nice to have a reference for where they come from and they
+mean. But it's also kind of taking the piss, because we all become a bit of a
+stereotype sometimes. 
+
+You are welcome to contribute new, complimentary, or contradictory definitions,
+edit or expand on existing ones, fork this file, host it yourself, or submit
+changes. 
+
+=============================================================
+
+:biopolitical:
+
+:schizoanalysis:
+
+:assemblage: any number of things or pieces gathered into a single context. an assemblage can bring about any number of "effects" such as aesthetic, machinic, productive, informatic, etc. 
+
+:aesthetic:
+
+:spectacle:
+
+:invocation: 
+
+:aporia:
+
+:polemic:
+
+:reify:
+
+:valorize:
+
+:socially necessary labor time: 
+
+:phenomenology:
+
+:ontological: 
+
+:calcify:
+
+:sedimentation:
+
+:decolonization:
+
+:primitive accumulation:
+
+
+:normativity:
+
+:teleological: Teleology is a word that describes goal-directedness. A
+teleological moral theory is one that says there is some goal to aim towards
+(so, utilitarianism is a teleological theory that says to aim towards maximum
+happiness). <a href="is.gd/FGWNhZ">ref.</a>
+
+:catalysis: "increase in the rate of a chemical reaction due to the
+participation of an additional substance called a catalyst, which is not
+consumed in the catalyzed reaction and can continue to act repeatedly." <a href="is.gd/v6a22Q">ref</a>.
+
+:deconstruction:
+
+:rendered: eg. "rendered irrelevant."
+
+:reading: cf. 'reading of'
+
+:minor: a minor reading. 
+
+:fetishize: 
+
+:aphorism:
+
+:register:
+
+:modernity:
+
+:duration: cf. https://en.wikipedia.org/wiki/Duration_(philosophy)
+
+:meshwork:
+
+:rupture:
+
+:critique:
+
+:perversion:
+
+:materialism:
+
+:realpolitik:
+
+:nomos: "`Nomos' is the name that Deleuze gives to the way of arranging
+elements whether they are people, thoughts or space itself - that does not rely
+upon an organisation or permanent structure. It indicates a free distribution,
+rather than structured organisation, of certain elements." <a href="http://deleuze.enacademic.com/117">ref</a>
+
+:striated: A partitioned field of movement which prohibits free motion. "One of
+the fundamental tasks of the State is to striate the space over which it
+reigns," (D&G 385). "the State" operates through the capture of movement and
+the partition of space. Similarly, the State is also concerned with striating
+space or building into it a hierarchical system of relations... "Smooth space"
+exists in contrast to "striated space." 
+ref: <a href="http://www.rhizomes.net/issue5/poke/glossary.html">Rhizomes.net</a>. See
+also <a href="https://www.goodreads.com/book/show/20186.Seeing_like_a_State">Seeing
+Like a State</a>
+
+:existentialism:
+
+:essentialism:
+
+:mediated:
+
+:articulated:
+
+:double-articulation:
+
+:prehistory:
+
+:prefiguring:
+
+:historicity:
+
+:related difference: mary parker follet, derrida...
+
+:nomad: "Nomadism" is a way of life that exists outside of the organizational
+"State." The nomadic way of life is characterized by movement across space
+which exists in sharp contrast to the rigid and static boundaries of the State
+<a href="http://www.rhizomes.net/issue5/poke/glossary.html">ref</a>
+
+:urstaat: The always and ever existing State. "For Deleuze there has always
+been a State — the Urstaat, an eternal State which comes into existence fully
+formed, at one stroke (Deleuze and Guattari 1988:437). This non-economic
+analysis of the State opens up a radical philosophical terrain in which power
+is theorised in its own right." <a href="https://theanarchistlibrary.org/library/saul-newman-war-on-the-state-stirner-and-deleuze-s-anarchism">ref.</a>
+<a href="https://www.reddit.com/r/todayilearned/comments/146itv/til_that_the_urstaat_is_just_a_concept_that/">thanks, reddit.</a>
+
+=:nomadology:
+=
+=:war machine: The "War Machine" is a tool of the nomad through which capture
+can be avoided and smooth space preserved... the war machine is a collection of
+nomad-warriors engaged in resistance to control, war being only a
+consequence—not the intended object. <a href="http://www.rhizomes.net/issue5/poke/glossary.html">ref</a>
+=
+=totalizing: cf. non-totalizing.
+=
+=communities of fate: 
+=
+=affective
+=
+=libidinal
+=
+=rhizomatic
+=
+=stratoanalysis
+=
+=tendentious
+=
+=free-market communism
+=
+=slow-motion general strike
+=
+=affirmative nomadology
+
+:immanent:
+=
+=plane of immanence: D&G, ref. p. 2 NC.
+=
+=motility
+=
+=territorialization
+=
+=coding/overcoding
+=
+=screen narrative
+=
+=imbrication
+=
+=death-state
+=
+=becoming
+=
+=depersonalization
+=
+=power-with: follet. p. 68 NC
+
