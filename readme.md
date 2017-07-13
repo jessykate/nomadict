@@ -4,14 +4,14 @@
 A set of critical theory terms and definitions that can be used with the
 command line tool `dict.` 
 
-Dict? Linux has a nice little command line dictionary program called `dict.` It
+`Dict?` Linux has a nice little command line dictionary program called `dict.` It
 supports adding arbitrary dictionaries from different sources. It is a
-client-server architecture that works with a program called dictd. dictd is the
-dictionary `server` and `dict` is the client. this is perhaps structurally
+client-server architecture that works with a program called `dictd`. `dictd` is the
+dictionary _server_ and `dict` is the _client_. this is perhaps structurally
 verbose for most people's needs, but it means for example you can connect to
-_remote_ database servers and display the definition on your local client. 
+_remote_ database servers to display the definition on your local client. 
 
-To install: `sudo apt-get install dict dictd dictfmt`
+Dependencies: `sudo apt-get install dict dictd dictfmt`
 
 ## Contributing
 
