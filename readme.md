@@ -19,7 +19,7 @@ Dependencies: `sudo apt-get install dict dictd dictfmt`
 jargon file --> 
 
 jargon file format:
-:heading1:meaning1
+:heading1:meaning1\
 :heading2:meaning2
 
 where the "meaning" can be several kilobytes long and may contain HTML tags (it
